@@ -12,7 +12,7 @@ import ru.yandex.courier.*;
 public class LoginCourierTests {
     private final CourierRandomizer courierRandomizer = new CourierRandomizer();
     CourierAssert courierAssert;
-    int courierID;
+    private int courierID;
     private CourierCreds courierCreds;
     private CourierSteps courierSteps;
     private CourierModel courierModel;

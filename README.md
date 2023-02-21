@@ -17,13 +17,17 @@
    * Тесты для модели Заказа.
 
 По результатам выполнения тестов можно сформировать Allure отчет с помощью команд
-`
+
+```
 mvn clean test
 mvn allure:serve
-`
+```
+
 Пример отчета с успешным прохождением всех тестов:
-![Allure отчет 1](https://disk.yandex.ru/i/jUL0sGELAoavJg)
-![Allure отчет 2](https://disk.yandex.ru/i/kFo7JfgvYAj1vQ)
+
+[Allure отчет 1](https://disk.yandex.ru/i/jUL0sGELAoavJg)
+
+[Allure отчет 2](https://disk.yandex.ru/i/kFo7JfgvYAj1vQ)
 
 # Задание
 

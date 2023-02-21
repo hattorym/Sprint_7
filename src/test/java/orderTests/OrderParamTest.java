@@ -20,7 +20,7 @@ import static org.hamcrest.CoreMatchers.notNullValue;
 @RunWith(Parameterized.class)
 public class OrderParamTest {
     private final List<String> colour;
-    int track;
+    private int track;
     private OrderSteps orderSteps;
 
     public OrderParamTest(List<String> colour) {

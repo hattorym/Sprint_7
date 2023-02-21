@@ -11,7 +11,7 @@ import ru.yandex.courier.*;
 
 public class LoginCourierTests {
     private final CourierRandomizer courierRandomizer = new CourierRandomizer();
-    CourierAssert courierAssert;
+    private CourierAssert courierAssert;
     private int courierID;
     private CourierCreds courierCreds;
     private CourierSteps courierSteps;
